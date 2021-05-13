@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The new iPhone",
+    "description": "The new iPhone is set to be released next month.",
+    "needed_funding": 5000
+  },
+  {
+    "name": "Windows 11 Comin Soon",
+    "description": "Windows geeting rid of Windows 10!",
+    "needed_funding": 10000
+  },
+  {
+    "name": "Amazon is hiring",
+    "description": "Amazon is hiring thousands of workers as soon as the ne HQ is completed.",
+    "needed_funding": 800
+  }
+]
