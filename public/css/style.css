@@ -1,24 +1,47 @@
 header, .project:not(:last-child) {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid grey;
 }
 
-.no-button {
-  background: none;
-  border: none;
-  padding: 0;
-  cursor: pointer;
-  color: #1b89bc;
-  text-decoration: none;
-  font-size: 100%;
+.my-nav {
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 100%;
+ }
+
+.my-header {
+  width: 100%;
+  border-bottom: solid grey; 
+  margin-bottom: 2%;
 }
 
-.no-button:hover {
-  color: #065b83;
-  text-decoration: underline;
+.my-table {
+  width: 100%;
 }
 
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
+.my-title-l {
+  color: black;
+  font-size: x-large;
 }
+
+.my-title-lcomment {
+  color: black;
+  font-size: medium;
+}
+
+.my-href {
+  color: white;
+}
+
+.my-title-r {
+  text-align: right;
+}
+
+.my-title-rcomment {
+  text-align: right;
+  font-size: medium;
+}
+
+.my-text {
+  border-bottom: solid grey;
+}
+
